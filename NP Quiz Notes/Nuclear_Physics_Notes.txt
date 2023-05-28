@@ -1,0 +1,165 @@
+Nuclear Fusion : 
+
+Most important natural source of energy.
+This creates energy inside stars.
+
+Due to nuclear fusion, elements are formed.
+
+fusion - 2 parent nuclei, 1 daughter nuclei
+
+Core of the star is very hot - of the order of 10^7 or 10^8 Kelvin.
+
+Fusion = we need a high temperature region for fusion to happen.
+
+Fusion takes place in the core of the sun.
+
+Fusion = 4 protons are the input and it gives the helium nuclei as O/P.
+
+protons forming => deutron forming => 3 He 2 forming => 4 He 2
+
+Protons combine to form deutrons and emits positrons ( inverse beta decay ) , neutrino is also produced but not written in reaction.
+
+
+
+
+Kinds of stars : 
+
+Sun = Young star, middle-aged star ( Young time = proton-proton cycle happens )
+
+When star grows older = % of hydrogen decreases and % of helium increases .
+
+Star grows older in millions of years => Small amount of other reactions also happens
+
+When Sun grows older = Sun will become red giant star, then become white star and eventually star dies.
+
+Self-sustaining fusion reactions = happens only in core of stars.
+
+
+
+
+Self-sustaining Fusion reactions happen only under certain conditions :
+
+=> They happen only in core of stars.
+
+1) Temperature should be very high = protons have to approach close to each other for fusion to happen. They have to overcome the repulsion between them. They have to overcome the potential barrier. Barrier is of order of 1MeV and proton's KE is of order of 1KeV. Because of Quantum-mechanical tunnelling, they can react.
+
+2) High density is also reqd = Because of high density of protons, there are frequent collisions.
+
+3) Reacting mass should be large 
+
+
+
+
+What else happens in stars other than proton-proton cycle :
+
+In Sun, proton-proton cycle is dominating. In other stars which has mass of size of same order as sun or upto 1.5 times of sun = proton-proton cycle happens. 
+
+If we have larger star = larger star has hotter interior = carbon cycle happens.
+
+Carbon cycle = emits 24.7 MeV energy, 4 protons as I/P, 2 positrons as O/P and Helium as O/P. 
+
+Carbon cycle = is a perfect cycle, Carbon and Nitrogen produced in cycle don't stay , they are all CATALYSTS. 
+
+Carbon cycle happens in larger and hotter stars.
+
+Relative power output = means how much power output coming from which process. For Sun, temp is about 1.5*10^7 K, so power output from proton-proton cycle is about 10^4 , and from carbon cycle it is about 1. Proton-proton cycle happens in sun exclusively.
+
+Proton-proton cycle becomes constant for hotter stars.
+
+Star of size of sun = dies out quietly. 
+Larger star = does not die out quietly, core temp increases and finally star explodes and this explosion is called nova.
+
+When big star explodes = super-nova ( happens once in many-many decades ). = leads to generation of large amount of energy in universe.
+
+
+
+
+Formation of heavier elements by fusion :
+
+Once all the hydrogen is used up to form helium, gravitational contraction happens. Further compression of core happens leading to greater density and increase in temp. leading to helium fusion.
+
+Helium fusion = two helium combining to form berillium, berellium combining with helium to form Carbon
+
+Triple-alpha reaction forms carbon. ( Can happen only in larger stars ).
+
+Higher order fusion reactions can only happen in heavier stars and later in their lifetime.
+
+Initially, every star has only hydrogen fusion, once all hydrogen used up, helium fusion can happen to some extent in stars like sun ( cannot happen in lighter stars ) , heavier stars can perform higher-order fusion reactions.
+
+if mass of star > 10 mass of sun, 56Fe can be reached.
+
+Fusion can form elements upto 56 Fe.
+
+
+
+
+How are elements beyond 56 Fe are formed ?
+
+Anything above 56 Fe cannot be formed by fusion.
+But it happens by capture of neutrons. Heavier elements formed by capture of neutrons by 56 Fe.
+
+Successive neutron capture increases number of neutrons , larger number of neutrons may lead to unstable N/Z ratio which then undergo beta decay. Beta decay happens to adjust N/Z ratio. 
+
+elements between 56 Fe upto 209 Bi, formed by successive neutron  capture and then beta decay. 
+
+HIGHER DENSITY OF NEUTRONS is reqd to form elements with A>209 , since neutrons actually are not of that high density to be fast captured by unstable elements with A>209 ( in reality, neutron density is not high enough in stars ). 
+
+Elements from A=210 to A=260 formed due to high density neutrons released for very few seconds during SUPERNOVA explosion. ( When very heavy star undergoes core collapse and then supernova happens ). 
+
+
+
+
+
+How are elements come out of core of stars ?
+
+Supernova = explosion of stars. Distributes broken pieces of stars in interstellar matter. Elements come out of core of stars when explosion of star happens. Power of explosion scatters all the elements into the universe. Everything else such as stars,planets,asteroids form out of these elements.
+
+Supernova = basic process of scattering elements into universe from core of star.
+
+
+
+
+
+
+Can fusion reaction can be utlized in reactors ?
+
+Fission reactor required heavy radioactive material as fuel while fusion reactor may only require hydrogen as fuel. So it may seem that fusion reactors can be cheaper than fission reactors.
+
+Getting fuel in case of fusion reactors is not a problem = since deuterium can be found in sea-water.
+
+D-T reaction has higher energy yield and also happens at relatively lower temperature. Tritium can be obtained by bombarding Lithium with neutrons. 
+
+Self-sustained fusion reactions can only happen in core of stars = due to high temp, high density and they are very large.
+
+3 basic conditions for self-sustaining fusion reactions :
+
+1) High enough plasma temp = plasma is very high temp of order of 10^7 K, fuel needs to be in plasma state.
+
+For ignition ( for fusion reaction to start ) = the plasma temp should be 10^8 K.
+
+2) Plasma density should be large. 
+
+3) plasma of nuclei to remain together. 
+
+Confinement quality parameter = should be larger than 10^20 seconds/m^3
+
+Confinement quality parameter = product of plasma density and time of confinement.
+
+time for confinement = time for which nuclei has to remain intact inside the reactor.
+
+Breakeven = amount of energy giving to reactor, reactor should generate that exactly amount of energy.
+
+Igntion = energy giving to reactor, we get more energy as O/P of reactor.
+
+China = trying to make TOKAMAK nuclear fusion reactor. 
+
+Nuclear bombs = where conditions for fusion are satisfied. Uncontrolled fission chain reactions lead to nuclear bombs.
+
+At time of exploding of bomb, conditions for fusion are satisfied ( high temp, high density and confinement ). 
+
+Hydrogen bombs = a fusion bomb
+
+
+
+
+
