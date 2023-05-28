@@ -1,0 +1,147 @@
+we exist because of the binding energy curve.
+
+BE of neutron is more than BE of proton due to the following reasons :
+
+Neutrons are bound to the nucleus only due to the strong attractive force. Neutrons is bound to other neutrons and protons due to the strong nuclear force.  
+Protons = strong attractive nuclear force + electromagnetic repulsive force 
+
+
+LEC - 3
+
+forces which act inside the nucleus are the : strong nuclear force and electromagnetic force
+
+force between neutrons and protons = nucleon-nucleon force / residual strong force
+
+force between the quarks = fundamental strong force
+
+nucleon-nucleon force is not strong enough to hold the nucleus it is weak than electromagnetic force so neutrons are also needed along with protons inside the nucleus.
+
+We want nucleon-nucleon force to be repulsive at very short distances that is less than 0.7 fm , so that nucleons do not smash into each other ( so as to maintain the structure of the nucleus ). 
+
+mesons are particles that are exchanged between the nucleons to hold the particles together.
+
+residual strong force = pi-mesons are the force carrying particles. The exchange of these particles causes the residual strong force to act between two nucleons.
+
+electromagnetic force = photons are the force carrying particles.
+
+gravitational force = graviton are the force carrying particles.
+
+fundamental strong force = gluons are the force carrying particles.
+
+Yukawa potential = all forces are associated with a potential and he predicted the nature of this potential.
+
+Pauli exclusion principle = two identical fermions cannot come very close together unless some property is different. Pauli does not apply to two different particles ( hence neutrons and protons cannot come close together since they are made of quarks ). Pauli exclusion will act on the fermions.
+
+At about 1 fm , nucleon-nucleon force is strongest. After this , it drops exponentially.
+
+After 2 fm, only coulomb repusive force acts.
+
+nuclear force is high between protons and neutrons than between protons and protons and neutrons and neutrons.
+
+Yukawa hypothesis : 
+
+exchange particles should have a mass of about of 200 times of electron. 
+
+when particle is massless = no need for exponential term in numerator however if there is some mass, then exponential term should be there.
+
+e^(-u r) factor in case of "decaying mass particle" like mesons.
+
+Yukawa potential only predicts the attractive nature of nucleon-nucleon force ( and not the repulsive nature at short distances ). 
+
+
+
+
+Lecture - 4 ( pg 5 - lecture notes 4 )
+
+Models of the nucleus :
+
+We want to find the models of the nucleus so that BE curve can be predicted with help of it.
+
+Liquid drop model :
+
+Nucleus behaves just like a drop of liquid.
+Properties - it has uniform density, it tends towards a sphere, nucleons are interacting with only its nearest neighbours.
+
+
+minimum possible energy = when the liquid drop attains the shape of a sphere.
+
+For first term in BW-BE formula, we assume that all nucleons are inside the nucleus and not on the surface of the nucleus. 
+
+alpha-1 = 6U
+
+Volume energy = energy due to the nucleon-nucleon interaction if all the nucleons were to be inside the nucleus.
+
+Nucleons inside the nucleus = surrounded by 6 nucleons around it ( in 2D ) and by 12 nucleons if ( in 3D). 
+
+Nucleons on the surface = surrounded by 3 nucleons around it ( in 2D ) and 6 nucleons if ( in 3D ).
+
+Surface energy = some of the nucleons are on the surface of the nucleus. It acts as the negative correction on the volume energy.
+
+"BE of the nucleons inside the nucleus is more than the BE of the nucleons on the surface of the nucleus."
+
+surface energy more important for lighter nuclei than heavy nuclei.
+
+when nucleus is spherical = volume energy is more and surface energy is less.
+
+liquids become a drop = so as to reduce the surface tension.
+
+Coulomb energy = repulsion between the protons also decreases the binding energy term further.
+
+pairs of protons = ZC2 
+
+coulomb energy = depends on Z and A, derived from "protons" only.
+
+first two terms of BW-BE formula : arrived by considering the nucleus as liquid drop
+
+last term : due to columb repulsion between protons.
+
+Volume energy = main term
+surface energy = correction in formula
+
+small variations in the BE/A curve / small kinks in the BE/A curve = cannot be explained by BW-BE formula.
+
+Assymetry effect and pairing effect = gives us the approx. accurate BE/A curve ( these two terms assumes nucleus has a shell structure, nucleus has energy levels/shells ).
+
+Shell model = gives the accurate model of nucleus.
+
+
+
+Lec - 5
+
+
+isotops = same Z, diff A
+isobars = same A, diff N and Z
+
+symmetrical nucleus = where N and Z are same tend to be more stable
+
+less protons, more neutrons = less stable
+
+Asymmetry effect = 
+
+Pairing energy = experimentally it was found, binding energy gained for an even-even nucleus and reduced for an odd-odd nucleus
+
+alphas can be found by fitting by comparing binding energy ( from experiment ) and from formula.
+
+"alpha-c" is small because coulomb repulsion ( elctromagnetic force ) is weaker than nuclear force.
+
+in lighter nuclei = shell structure is more reflected.
+
+
+
+Vibrational spectra of the nucleus :
+
+The nucleus is spherical and it gains some energy and then loses this energy to give vibrational spectra upon de-excitation.
+
+monopole vibration = changes in volume but not in shape. ( breathing mode or vibration mode ). = requires large amount of energy
+
+quadrupole = changes shape but not volume.
+
+R(theta, phi) = position coordinate of the surface of the nucleus with repsect to the centre of the nucleus.
+
+
+
+Lec - 6 ( Shell Model )
+
+nucleus with N and Z or both as magic numbers are more stable. 
+
+
